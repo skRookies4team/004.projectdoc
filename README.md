@@ -21,15 +21,15 @@ project/
 ## 주요 기능
 - 📝 체계적인 회의록 관리
    -> https://www.notion.so/2a1fef49d8d580eba707ce4695ccc195
-- 👨‍🏫 멘토링 일지 추적
-   -> 모인지 : https://imoni.tistory.com/
-   -> 윤종윤 : https://yunyun2da.tistory.com/1
-   -> 최대현 : https://hia1394.tistory.com/
-   -> 국영규 : https://dmrdprdjr.tistory.com/
-   -> 이유진 : https://j961008.tistory.com/ 
-   -> 임성현 : https://qlzmfl0714.tistory.com/1
-   -> 김세희 : https://xxeheei7.tistory.com/
-   -> 강소현 : https://blog.naver.com/gomju_03
+- 👨‍🏫 멘토링 일지 추적**
+  - 모인지: https://imoni.tistory.com/
+  - 윤종윤: https://yunyun2da.tistory.com/1
+  - 최대현: https://hia1394.tistory.com/
+  - 국영규: https://dmrdprdjr.tistory.com/
+  - 이유진: https://j961008.tistory.com/
+  - 임성현: https://qlzmfl0714.tistory.com/1
+  - 김세희: https://xxeheei7.tistory.com/
+  - 강소현: https://blog.naver.com/gomju_03
 - 📚 프로젝트 문서화
    -> https://www.notion.so/4-AI-AI-Security-Assistant-299fef49d8d580b6a1f5c4282b3c0536 
 - 🔄 Git 기반 버전 관리
@@ -113,4 +113,5 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
