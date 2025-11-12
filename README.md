@@ -20,7 +20,7 @@ project/
 
 ## 주요 기능
 - 📝 체계적인 회의록 관리
-   -> https://www.notion.so/2a1fef49d8d580eba707ce4695ccc195
+   -> [https://www.notion.so/2a1fef49d8d580eba707ce4695ccc195](https://www.notion.so/2a95746a1d638015868cea165c44f897?source=copy_link)
 - 👨‍🏫 멘토링 일지 추적**
   - 모인지: https://imoni.tistory.com/
   - 윤종윤: https://yunyun2da.tistory.com/1
@@ -31,12 +31,12 @@ project/
   - 김세희: https://xxeheei7.tistory.com/
   - 강소현: https://blog.naver.com/gomju_03
 - 📚 프로젝트 문서화
-   -> https://www.notion.so/4-AI-AI-Security-Assistant-299fef49d8d580b6a1f5c4282b3c0536
+   -> [https://www.notion.so/4-AI-AI-Security-Assistant-299fef49d8d580b6a1f5c4282b3c0536](https://www.notion.so/2a95746a1d638020abcce34cb4a09394?source=copy_link)
    -> https://docs.google.com/spreadsheets/d/1DA-Ba0RzHBfGvy0HJkCIHTew95a0zxx_/edit?gid=1903446462#gid=1903446462
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
-   -> 기획단계(노션) : https://www.notion.so/2a2fef49d8d580568149ce329bbf9115?v=2a2fef49d8d580219f79000cb6fd6355
+   -> 기획단계(노션) : [https://www.notion.so/2a2fef49d8d580568149ce329bbf9115?v=2a2fef49d8d580219f79000cb6fd6355](https://www.notion.so/2a95746a1d6380e2b9cce90d35ef5e94?v=2a95746a1d63815b8b8a000c626ce6fb&source=copy_link)
    -> 개발단계(깃칸반) 
 
 ## 시작하기
@@ -114,6 +114,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
