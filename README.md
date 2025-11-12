@@ -31,7 +31,8 @@ project/
   - 김세희: https://xxeheei7.tistory.com/
   - 강소현: https://blog.naver.com/gomju_03
 - 📚 프로젝트 문서화
-   -> https://www.notion.so/4-AI-AI-Security-Assistant-299fef49d8d580b6a1f5c4282b3c0536 
+   -> https://www.notion.so/4-AI-AI-Security-Assistant-299fef49d8d580b6a1f5c4282b3c0536
+   -> https://docs.google.com/spreadsheets/d/1DA-Ba0RzHBfGvy0HJkCIHTew95a0zxx_/edit?gid=1903446462#gid=1903446462
 - 🔄 Git 기반 버전 관리
 - 📋 이슈 및 작업 추적
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
@@ -113,5 +114,6 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
